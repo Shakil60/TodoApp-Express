@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Faire les courses",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Finir le TP JavaScript",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Lire 20 pages",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Envoyer un email au prof",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Faire 30 minutes de sport",
+      "completed": true
+    }
+  ]
+}
